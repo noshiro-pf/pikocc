@@ -1,3 +1,9 @@
+*~
+*.o
+tmp*
+a.out
+pikocc
+
 # Prerequisites
 *.d
 
